@@ -1,3 +1,8 @@
+# SBT Experiment
+
+Nothing to see.... please move along.
+
+<!--
 # SBT HowAmIDoing Plugin
 
 This is an SBT 0.13.x plugin for recording over time in simple CSV format statistics on test results.
@@ -27,3 +32,6 @@ val myProject = (project in file(".")).enablePlugins(SbtHowAmIDoing)
 ## Usage
 
 **TODO**
+
+
+-->
