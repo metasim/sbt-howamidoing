@@ -12,3 +12,4 @@ scalacOptions ++= Seq("-deprecation", "-feature")
 
 libraryDependencies ++= Seq()
 
+testResultLogger in Global := TestResultLogger.Null
